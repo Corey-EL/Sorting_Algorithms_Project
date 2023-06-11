@@ -11,5 +11,5 @@ This coding project is taken from a college assignment that compares various sor
 - Time library
 - Pandas 
 - Dataframes
-- Sorting algorithms (Bubble sort, Insertion sort, Quick sort, Heap sort, 3-way Merge sort)
+- Sorting algorithms (Bubble sort, Insertion sort, Quick sort, Heap sort, and 3-way Merge sort)
 
